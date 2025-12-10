@@ -103,7 +103,7 @@ Additional buttons use math.sqrt and math.log10.
 🧑‍💻 Author
 H Hapukotuwa
 himahapukotuwa8219@gmail.com
-🔗 GitHub: https://github.com/your-username
+
 
 
 ---
