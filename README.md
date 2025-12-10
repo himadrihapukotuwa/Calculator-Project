@@ -1,4 +1,4 @@
-</bold> CustomTkinter Calculator </bold>
+<b> CustomTkinter Calculator </b>
 
 A modern, dark-themed calculator application built using Python and CustomTkinter (CTk).
 This project includes basic arithmetic operations as well as additional scientific functions such as square root, log, percentage, and power.
